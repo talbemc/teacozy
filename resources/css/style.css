@@ -1,0 +1,68 @@
+body  {
+  font-family: Helvetica;
+  font-size: 22px;
+  color: seashell;
+  background-color: black;
+  opacity: 0.9;
+  text-align: center;
+}
+
+
+/* PARA STYLES */
+
+h1 {
+
+}
+
+h2  {
+
+}
+
+h3  {
+
+}
+
+h4  {
+
+}
+
+
+
+
+
+
+
+
+
+
+
+/* IMAGES */
+  {
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-logo.png")
+}
+
+  {
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg")
+}
+
+{
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg")
+}
+
+{
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg")
+}
+
+donut {
+background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-donut.jpg")
+
+locations {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg")
+}
+
+background  {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg")
+}
+
+rum  {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-spiced-rum.jpg")
